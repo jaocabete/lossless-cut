@@ -65,7 +65,7 @@
     "hammerjs": "^2.0.8",
     "jquery": "^3.4.0",
     "lodash": "^4.17.13",
-    "mime-types": "^2.1.14",
+    "mime-types": "^2.1.27",
     "moment": "^2.18.1",
     "mousetrap": "^1.6.1",
     "p-queue": "^6.2.0",
