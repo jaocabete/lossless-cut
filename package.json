@@ -74,7 +74,7 @@
     "react-dom": "^16.12.0",
     "react-hammerjs": "^1.0.1",
     "react-sortable-hoc": "^1.5.3",
-    "react-use": "^13.24.0",
+    "react-use": "^13.27.1",
     "read-chunk": "^2.0.0",
     "string-to-stream": "^1.1.1",
     "strong-data-uri": "^1.0.5",
